@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="132ab409-9761-48b3-9ebe-657063a056aa" name="Default" comment="" />
+    <list default="true" id="132ab409-9761-48b3-9ebe-657063a056aa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/unit-7/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-7/2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +39,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit-6/1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="265">
+              <first_editor relative-caret-position="289">
                 <caret line="114" selection-start-line="114" selection-end-line="114" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unit-7/1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="207">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit-7/2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="276">
+                <caret line="141" selection-start-line="141" selection-end-line="147" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,6 +106,8 @@
       <find>24</find>
       <find>30</find>
       <find>29</find>
+      <find>32</find>
+      <find />
     </findStrings>
     <replaceStrings>
       <replace>27</replace>
@@ -85,6 +115,8 @@
       <replace>29</replace>
       <replace>30</replace>
       <replace>32</replace>
+      <replace>36</replace>
+      <replace>38</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -96,6 +128,7 @@
         <option value="$PROJECT_DIR$/unit-5/1.md" />
         <option value="$PROJECT_DIR$/unit-5/2.md" />
         <option value="$PROJECT_DIR$/unit-6/1.md" />
+        <option value="$PROJECT_DIR$/unit-7/1.md" />
       </list>
     </option>
   </component>
@@ -123,6 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,19 +168,12 @@
             <path>
               <item name="JEnglish" type="b2602c69:ProjectViewProjectNode" />
               <item name="JEnglish" type="462c0819:PsiDirectoryNode" />
-              <item name="unit-5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JEnglish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JEnglish" type="462c0819:PsiDirectoryNode" />
-              <item name="unit-6" type="462c0819:PsiDirectoryNode" />
+              <item name="unit-7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -159,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1_github-project\JEnglish" />
       <recent name="D:\1_github-project\JEnglish\unit-6" />
       <recent name="D:\1_github-project\JEnglish\unit-5" />
     </key>
@@ -298,6 +327,7 @@
       <workItem from="1550034896701" duration="22000" />
       <workItem from="1550048180381" duration="367000" />
       <workItem from="1550131682292" duration="7000" />
+      <workItem from="1550323225352" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary=":construction: 正在进行中 unit-5 2.md">
       <created>1549980076858</created>
@@ -324,10 +354,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4231000" />
+    <option name="totallyTimeSpent" value="6006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-3" width="1350" height="808" extended-state="6" />
+    <frame x="-3" y="-3" width="1542" height="832" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -344,7 +375,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27682737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28213802" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -372,6 +403,52 @@
     <option name="LAST_COMMIT_MESSAGE" value=":construction: 正在进行中 unit-6 1.md" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/unit-5/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1104">
+            <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-5/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-6/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2622">
+            <caret line="114" selection-start-line="114" selection-end-line="114" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unit-5/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -581,8 +658,28 @@
     <entry file="file://$PROJECT_DIR$/unit-6/1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="265">
+          <first_editor relative-caret-position="289">
             <caret line="114" selection-start-line="114" selection-end-line="114" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-7/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="141" selection-start-line="141" selection-end-line="147" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-7/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="207">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
